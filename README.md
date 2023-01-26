@@ -49,3 +49,13 @@ The following snippets are currently included in this extension:
 [Extension](https://marketplace.visualstudio.com/items?itemName=hrithikvishwakarma001.fetch-axios-snippets) 👈
 
 **Enjoy!** 🎉
+
+## License
+
+[MIT]( "MIT License")
+
+## Release Notes
+
+### 1.0.0
+
+Initial release of fetch-axios-snippets
