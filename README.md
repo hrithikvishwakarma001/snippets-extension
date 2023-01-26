@@ -4,7 +4,7 @@ This extension contains a collection of useful code snippets for fetching data u
 <!-- 5wpib6asmrgzogqic5hlltv7j5evyulg7e2rjpzco7l2h2fyklwa -->
 ## Usage
 
-1. Type the "!" of the snippet you want to use in your code.
+1. Type the `!` of the snippet you want to use in your code.
 2. Press `Tab` to expand the snippet.
 3. The snippet will be automatically indented to match the current code.
 
