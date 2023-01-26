@@ -2,12 +2,6 @@
 
 This extension contains a collection of useful code snippets for fetching data using `fetch` and `axios` libraries in JavaScript.
 
-## Installation
-<!-- 5wpib6asmrgzogqic5hlltv7j5evyulg7e2rjpzco7l2h2fyklwa -->
-1. Open the Extensions pane in VS Code (`Ctrl+Shift+X` or `Cmd+Shift+X` on Mac).
-2. Search for "Snippets Extension" and click the "Install" button.
-3. Click the "Reload" button to activate the extension.
-
 ## Usage
 
 1. Type the "!" of the snippet you want to use in your code.
@@ -46,19 +40,12 @@ The following snippets are currently included in this extension:
 
 ![!f](https://user-images.githubusercontent.com/104666876/214819336-06049343-a344-4ee0-b0c7-c6d7f3e7b7d3.png)
 
+
 > Tip: Only put '!' and see all the fetch and axios snippets
 
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
--   Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
--   Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
--   Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
 
 ## For more information
--   [Extension](https://marketplace.visualstudio.com/items?itemName=hrithikvishwakarma001.fetch-axios-snippets) 👈
--   [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
--   [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+
+[Extension](https://marketplace.visualstudio.com/items?itemName=hrithikvishwakarma001.fetch-axios-snippets) 👈
 
 **Enjoy!** 🎉
