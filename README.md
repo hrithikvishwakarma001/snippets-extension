@@ -50,10 +50,6 @@ The following snippets are currently included in this extension:
 
 **Enjoy!** 🎉
 
-## License
-
-[MIT]( "MIT License")
-
 ## Release Notes
 
 ### 1.0.0
