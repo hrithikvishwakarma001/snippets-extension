@@ -1,7 +1,7 @@
 # fetch & axios snippets 
 
 This extension contains a collection of useful code snippets for fetching data using `fetch` and `axios` libraries in JavaScript.
-<!-- 5wpib6asmrgzogqic5hlltv7j5evyulg7e2rjpzco7l2h2fyklwa -->
+
 ## Usage
 
 1. Type the `!` of the snippet you want to use in your code.
