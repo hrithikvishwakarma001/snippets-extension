@@ -1,10 +1,9 @@
 # fetch & axios snippets 
 
 This extension contains a collection of useful code snippets for fetching data using `fetch` and `axios` libraries in JavaScript.
-
 ## Usage
 
-1. Type the `!` of the snippet you want to use in your code.
+1. Type the "!" of the snippet you want to use in your code.
 2. Press `Tab` to expand the snippet.
 3. The snippet will be automatically indented to match the current code.
 
@@ -49,9 +48,3 @@ The following snippets are currently included in this extension:
 [Extension](https://marketplace.visualstudio.com/items?itemName=hrithikvishwakarma001.fetch-axios-snippets) 👈
 
 **Enjoy!** 🎉
-
-## Release Notes
-
-### 1.0.0
-
-Initial release of fetch-axios-snippets
