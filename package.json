@@ -1,40 +1,40 @@
 {
-	"name": "fetch-axios-snippets",
-	"displayName": "fetch & axios snippets",
-	"description": "Simple fetching snippets of fetch API and axios",
-	"version": "1.0.0",
-	"publisher": "hrithikvishwakarma001",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/hrithikvishwakarma001/fetch-axios-snippets.git"
-	},
-	"license": "MIT",
-	"icon": "/images/icon.png",
-	"keywords": [
-		"fetch",
-		"axios",
-		"snippets"
-	],
-	"engines": {
-		"vscode": "^1.74.0"
-	},
-	"categories": [
-		"Snippets"
-	],
-	"contributes": {
-		"snippets": [
-			{
-				"language": "javascript",
-				"path": "./snippets/snippets.code-snippets"
-			},
-			{
-				"language": "javascriptreact",
-				"path": "./snippets/snippets.code-snippets"
-			},
-			{
-				"language": "html",
-				"path": "./snippets/snippets.code-snippets"
-			}
-		]
-	}
+  "name": "fetch-axios-snippets",
+  "displayName": "fetch & axios snippets",
+  "description": "Simple fetching snippets of fetch API and axios",
+  "version": "1.0.1",
+  "publisher": "hrithikvishwakarma001",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hrithikvishwakarma001/fetch-axios-snippets.git"
+  },
+  "license": "MIT",
+  "icon": "images/icon.png",
+  "keywords": [
+    "fetch",
+    "axios",
+    "snippets"
+  ],
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
 }
